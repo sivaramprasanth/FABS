@@ -15,7 +15,7 @@ Taking a step towards innovation, the mechanical pedals can be replaced by elect
 mechanical gear system can be replaced by programmable weight sensors where the pedal 
 action is achieved by applying a variable amount of force on the weight sensor.  
 These sensors can also be placed on the steering wheels where the force is applied by the 
-fingers or palms, especially for differently abled people. We can also use the same idea for making wheel chairs for differebtly abled people and for patients by using sensitive weight sensors.
+fingers or palms, especially for differently abled people. Also we can extend the same idea and attach these sensors to wheelchairs, which could help differently abled people and patients move independently without relying on others.
 
 PROJECT DESCRIPTION 
 
