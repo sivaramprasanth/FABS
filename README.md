@@ -3,6 +3,7 @@
 Force-Based Acceleration Braking System (FABS)  
 
 OVERVIEW 
+
 The field of automobile and automation have seen tremendous growth in the past few years. 
 Many classical features in vintage automobiles have been replaced by the innovative ones which 
 have helped driving become easy and safe. 
@@ -14,8 +15,10 @@ Taking a step towards innovation, the mechanical pedals can be replaced by elect
 mechanical gear system can be replaced by programmable weight sensors where the pedal 
 action is achieved by applying a variable amount of force applied on the sensor.  
 These sensors can also be placed on the steering wheels where the force is applied by the 
-palms, especially for differently abled people.  
+palms, especially for differently abled people. 
+
 PROJECT DESCRIPTION 
+
 In this project weight sensors are used to replicate the action of mechanical pedals. There are 2 
 Arduinos. One to control the motors of the vehicle and other to get inputs from the weight 
 sensors. This data is transferred through Bluetooth modules.  
@@ -31,7 +34,7 @@ description for each mode:
  
 COMPONENTS :
 
-The list of components required for the project is as follows: 
+The list of components used in the project is as follows: 
 1. 2 x Weight Sensors HX711 
 2. 2 x Arduino UNO/Nano 
 3. 2 x Bluetooth Module HC-05
