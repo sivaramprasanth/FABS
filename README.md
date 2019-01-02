@@ -13,16 +13,16 @@ shoe etc, may get stuck under the pedal thereby blocking the pedal. These may le
 accidents. 
 Taking a step towards innovation, the mechanical pedals can be replaced by electric pedals. The 
 mechanical gear system can be replaced by programmable weight sensors where the pedal 
-action is achieved by applying a variable amount of force applied on the sensor.  
+action is achieved by applying a variable amount of force on the weight sensor.  
 These sensors can also be placed on the steering wheels where the force is applied by the 
-palms, especially for differently abled people. 
+fingers or palms, especially for differently abled people. We can also use the same idea for making wheel chairs for differebtly abled people and for patients by using sensitive weight sensors.
 
 PROJECT DESCRIPTION 
 
 In this project weight sensors are used to replicate the action of mechanical pedals. There are 2 
 Arduinos. One to control the motors of the vehicle and other to get inputs from the weight 
 sensors. This data is transferred through Bluetooth modules.  
-There are four additional different modes available. Each mode has a different scaling factor for 
+There are four different modes available. Each mode has a different scaling factor for 
 acceleration and braking. This mode is also shown on the serial monitor on the vehicle so that 
 the neighbouring automobiles are aware of the mode the vehicle is in. The following is the 
 description for each mode: 
