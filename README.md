@@ -50,3 +50,6 @@ The list of components used in the project is as follows:
 10. Toggle Switches   
 11. Batteries 
 
+VIDEO LINK :
+
+The demonstration link of the project is https://drive.google.com/file/d/1OURt4z3eL5vX6fnmwNa_9BueAOqAbZyX/view.
