@@ -27,9 +27,9 @@ acceleration and braking. This mode is also shown on the serial monitor on the v
 the neighbouring automobiles are aware of the mode the vehicle is in. The following is the 
 description for each mode: 
  
-● Traffic : Less Acceleration, Faster Braking
-● Highway : More Acceleration, Faster Braking 
-● Learner : Slower Acceleration with a limit, Faster Braking
+● Traffic : Less Acceleration, Faster Braking.
+● Highway : More Acceleration, Faster Braking.
+● Learner : Slower Acceleration with a limit, Faster Braking.
 ● Rain    : Normal Acceleration with a limit, Medium Braking so the vehicle doesn’t skid. 
  
 COMPONENTS :
