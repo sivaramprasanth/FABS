@@ -8,7 +8,7 @@ The field of automobile and automation have seen tremendous growth in the past f
 Many classical features in vintage automobiles have been replaced by the innovative ones which 
 have helped driving become easy and safe. 
 But still, the world is stuck with the mechanical accelerator and brake pedals. As they are 
-mechanical in nature they carry the risk of mechanical failure, Also some objects, like a bottle, 
+mechanical in nature they carry the risk of mechanical failure. Also some objects, like a bottle, 
 shoe etc, may get stuck under the pedal thereby blocking the pedal. These may lead to many 
 accidents. 
 Taking a step towards innovation, the mechanical pedals can be replaced by electric pedals. The 
